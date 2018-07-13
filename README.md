@@ -8,4 +8,4 @@
 <br>
 
 * 因在博客上更新了,所以就不放到github上了
-* 博客地址：http://hanyaopeng.coding.me
+* 博客地址：http://hanyaopeng.coding.me/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/
